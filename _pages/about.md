@@ -14,4 +14,6 @@ applications, including Image Classification and Medical Image Analysis.
 News
 ======
 
-<font color="#dd0000">2022-09</font><br />    two paper accepted by ICONIP
+<font color="#dd0000">2022-09</font><br />two paper accepted by ICONIP
+<font color="#dd0000">2022-09</font><br />one paper accepted by ICTAI
+<font color="#dd0000">2022-09</font><br />one paper accepted by PR
