@@ -20,7 +20,9 @@ Contact: dreamkily@gamil.com
 Publications
 ======
 + Smooth-Gided Implicit Data Augmentation for Domain Generalization
-Mengzhu Wang, Junze Liu, Ge Luo, Shanshan Wangm Wei Wang Long Lan, Ye Wang, Feiping Nie
+
+**Mengzhu Wang**, Junze Liu, Ge Luo, Shanshan Wangm Wei Wang Long Lan, Ye Wang, Feiping Nie
+
 IEEE Transactions on Neural Networks and Learning Systems
 
 
