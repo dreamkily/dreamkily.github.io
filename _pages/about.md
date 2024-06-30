@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th-year PhD under the supervision of Prof.Zhigang Luo and Xiang Zhang at Parallel and Distributed Computing Laboratory, National University of Defense Technology. My research focuses on Computer Vision and Transfer Learning, especfically in Domain Adaptation and Domain Generalization and their 
-applications, including Image Classification and Medical Image Analysis.
+I am currently an associate professor at the School of Artificial Intelligence, Hebei Univerisity of Technology, leading an effort on Transfer Learning, Domain Adaptation and Domain Generalization. I got my Ph.D. degree from the College of Computer, National University of Defense Technology.
+
 
 News
 ======
