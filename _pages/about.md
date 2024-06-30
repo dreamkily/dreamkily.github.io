@@ -17,11 +17,27 @@ Contact: dreamkily@gamil.com
 
 
 
-Publications
+Selected Publications
 ======
 1. Smooth-Guided Implicit Data Augmentation for Domain Generalization<br />
-**Mengzhu Wang**, Junze Liu, Ge Luo, Shanshan Wangm Wei Wang Long Lan, Ye Wang, Feiping Nie<br />
+**M. Wang**, J. Liu, G. Luo, S. Wang,  W. Wang L. Lan, Y. Wang, F. Nie<br />
 IEEE Transactions on Neural Networks and Learning Systems (CCF-B, JCR Q1)
+
+2. Inter-Class and Inter-Domain Semantic Augmentation for Domain Generalization<br />
+**M. Wang**, J. Yuan, S. Wang, W. Wang, L. Lan, F. Nie<br />
+IEEE Transactions on Image Processing (CCF-A, JCR Q1)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
