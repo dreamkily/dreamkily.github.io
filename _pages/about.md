@@ -13,7 +13,7 @@ I am currently an Associate Professor at the School of Artificial Intelligence, 
 <font color="red">Actively looking for self-motivated interns to work on related research topics.
 Feel free to email me if you are interested.</font>
 
-Contact: dreamkily@gamil.com
+Contact: dreamkily@gmail.com
 
 
 
