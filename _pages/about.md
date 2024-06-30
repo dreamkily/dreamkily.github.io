@@ -19,7 +19,7 @@ Contact: dreamkily@gamil.com
 
 Publications
 ======
-+ <table><tr><td bgcolor=blue>TNNLS</td></tr></table>Smooth-Guided Implicit Data Augmentation for Domain Generalization<br />
+<table><tr><td bgcolor=#FF83FA>TNNLS</td></tr></table>Smooth-Guided Implicit Data Augmentation for Domain Generalization<br />
 **Mengzhu Wang**, Junze Liu, Ge Luo, Shanshan Wangm Wei Wang Long Lan, Ye Wang, Feiping Nie<br />
 IEEE Transactions on Neural Networks and Learning Systems (CCF-B, JCR Q1)
 
