@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 <span style="font-family: 'Times New Roman'">
-  
 Hi, I am Mengzhu Wang (汪梦竹). I received my M.Sc. degree from Chongqing University in 2018 and my Ph.D. degree in 2023 from the National University of Defense Technology. Currently, I am a Tenure-Track Associate Professor (Yuanguang Scholar) in the School of Artificial Intelligence at Hebei University of Technology. Previously, I interned at JD Explore Academy and DAMO Academy of Alibaba Group. I am also serving as a Program Committee Member for top-tier AI conferences, including ICML, ICLR, NeurIPS, CVPR and so on. My research interests lie broadly in machine learning and transfer learning. Specifically, I have been focusing on the development of algorithms and theoretical understanding for transfer learning, domain adaptation, and generalization in complex medical environments. I have published over 80 papers in top conferences and journals such as CVPR, ICML, ICLR, AAAI, ACM MM, IEEE TIP, IEEE TKDE, and IEEE TNNLS. My long-term goal is to design robust and efficient transfer learning models that can adapt well to real-world scenarios, especially in challenging settings like medical image segmentation and single-cell multi omics.
-
 </span> 
 
 <span style="color:red; font-size:1.5em; font-weight:bold">News</span>
