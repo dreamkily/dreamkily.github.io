@@ -15,7 +15,7 @@ Feel free to email me if you are interested.</font>
 
 Contact: dreamkily@gmail.com
 
-<font color="blue">蓝色文字</font>
+<span style="color:#00FF00">绿色文字</span>
 
 Selected Publications
 ======
