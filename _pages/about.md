@@ -26,7 +26,7 @@ Hi, I am Mengzhu Wang (汪梦竹). I received my M.Sc. degree from Chongqing Uni
 Recent Publication
 ======
 + **M Wang**, H Su, J Li, C Li, N Yin, L Shen, J Guo. (2025) GraphCL: Graph-based Clustering for Semi-Supervised Medical Image Segmentation, Forty-second International Conference on Machine Learning (ICML) (CCF-A会议)
-+ **M Wang**, M Wang, W Ren, Y Zhang, Y Fan, D Shi, L Jing, N Yin. (2025) Gaussian Mixture Model for Graph Domain Adaptation. The 34th International Joint Conference on Artificial Intelligence (IJCAI) (CCF-A会议)
++ **M Wang**, W Ren, Y Zhang, Y Fan, D Shi, L Jing, N Yin. (2025) Gaussian Mixture Model for Graph Domain Adaptation. The 34th International Joint Conference on Artificial Intelligence (IJCAI) (CCF-A会议)
 + **M Wang**, H Su, et al. (2025) Graph Convolutional Mixture-of-Experts Learner Network for Long-Tailed Domain Generalization, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) (中科院一区)
 + **M Wang**. (2025) SimProF: A Simple Probabilistic Framework for Unsupervised Domain Adaptation(AAAI) (CCF-A会议)
 + J Li, H Su, B Wang, Y Min, **M Wang**, N Yin, J Guo, S Wang. (2025) ESBN: Estimation Shift of Batch Normalization for Source-free Universal Domain Adaptation. The 34th International Joint Conference on Artificial Intelligence (IJCAI) (CCF-A会议, 通讯作者)
