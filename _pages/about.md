@@ -13,7 +13,7 @@ Hi, I am Mengzhu Wang (汪梦竹). I received my M.Sc. degree from Chongqing Uni
 
 <span style="color:red; font-size:1.5em; font-weight:bold">News</span>
 
-+ 课题组拟于2025年招收硕士研究生5名，研究方向涵盖迁移学习、医学图像分割和单细胞多组学，欢迎有志于从事相关研究的同学通过邮件申请 (dreamkily@gmail.com)。
++ 课题组拟于2025年招收硕士研究生8名，研究方向涵盖迁移学习、大模型、医学图像分割和单细胞多组学，欢迎有志于从事相关研究的同学通过邮件申请 (dreamkily@gmail.com)。
 + **[May, 2025]** One paper have been accepted by **ICML 2025**.
 + **[Apr, 2025]** Six papers have been accepted by **IJCAI 2025**.
 + **[Jan, 2025]** One paper have been accepted by **TCSVT**.
