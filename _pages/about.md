@@ -11,7 +11,7 @@ redirect_from:
 Hi, I am Mengzhu Wang (汪梦竹). I received my M.Sc. degree from Chongqing University in 2018 and my Ph.D. degree in 2023 from the National University of Defense Technology. Currently, I am a Tenure-Track Associate Professor (Yuanguang Scholar) in the School of Artificial Intelligence at Hebei University of Technology. Previously, I interned at JD Explore Academy and DAMO Academy of Alibaba Group. I am also serving as a Program Committee Member for top-tier AI conferences, including ICML, ICLR, NeurIPS, CVPR and so on. My research interests lie broadly in machine learning and transfer learning. Specifically, I have been focusing on the development of algorithms and theoretical understanding for transfer learning, domain adaptation, and generalization in complex medical environments. I have published over 80 papers in top conferences and journals such as CVPR, ICML, ICLR, AAAI, ACM MM, IEEE TIP, IEEE TKDE, and IEEE TNNLS. My long-term goal is to design robust and efficient transfer learning models that can adapt well to real-world scenarios, especially in challenging settings like medical image segmentation and single-cell multi omics.
 </span>
 
-<span style="color:red; font-size:1.5em; font-weight:bold">News</span>
+<span style="color:red; font-size:1.5em; font-weight:bold">News!</span>
 
 + 课题组拟于2025年招收硕士研究生8名，研究方向涵盖迁移学习、大模型、医学图像分割和单细胞多组学，欢迎有志于从事相关研究的同学通过邮件申请 (dreamkily@gmail.com)。
 + **[May, 2025]** One paper have been accepted by **ICML 2025**.
@@ -69,6 +69,13 @@ Recent Publication
 + xxx科学院, 跨领域多维度xxx,主持, 2024.10-2028.12, 100万
 + xxx科学院，认知xxx, 主持, 2025.05-2025.10,40万
 
+
+**Work Experience**
++ 河北工业大学，人工智能与数据科学学院， 准聘副教授/硕士生导师， 2023.12-至今
++ 中国人民解放军军事科学院，脑科学研究所，访问学者，2023.11-至今
++ 阿里巴巴，达摩院，实习算法研究员，2022.02-2023.10
++ 京东，探索研究院， 实习算法研究员，2021.10-2022.02
++ 清华大学， 计算机科学与技术系，实习生，2017.08-2017.12
   
 
 
