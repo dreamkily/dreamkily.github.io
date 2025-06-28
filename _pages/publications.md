@@ -1,16 +1,1 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
++ Mengzhu Wang, Houcheng Su, Sijia Wang, Shanshan Wang, Nan Yin, Long Lan, Liang Yang, Xiaochun Cao. "Graph Convolutional Mixture-of-Experts Learner Network for Long-Tailed Domain Generalization", IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2025
