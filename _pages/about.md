@@ -55,6 +55,7 @@ Recent Publication
 
 **Academic Service**
 
++ Reviewer for WACV 2026, ECAI 2025
 + Reviewer for ICLR 2024, ICML 2024, NeurIPS 2023-2025, AAAI 2023-2025, IJCAI 2025
 + Reviewer for CVPR 2025, ICCV 2025,  ACM MM 2023-2024, ECCV 2024, MICCAI 2025, ICASSP 2024
 + Reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
@@ -68,7 +69,6 @@ Recent Publication
 + ZZY, 大模型xxx，课题五主持，2024.10-2026.12，400万
 + xxx科学院, 跨领域多维度xxx, 主持, 2024.10-2028.12, 100万
 + xxx科学院，认知xxx, 主持, 2025.05-2025.10, 40万
-
 
 **Work Experience**
 + 河北工业大学, 人工智能与数据科学学院, 副教授/博士生导师,  2023.12-至今
