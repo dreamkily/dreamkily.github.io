@@ -14,6 +14,7 @@ Hi, I am Mengzhu Wang (汪梦竹). I received my M.Sc. degree from Chongqing Uni
 <span style="color:red; font-size:1.5em; font-weight:bold">News!</span>
 
 + 课题组拟于2026年招收硕士研究生7名，研究方向涵盖迁移学习、计算机视觉、大模型、医学图像分割和单细胞多组学，欢迎有意申请的同学通过邮件提交材料，包括个人简历、成绩单和科研计划说明，联系方式(dreamkily@gmail.com)。
++ <span style="color:red; font-weight:bold">**[July, 2025]** One paper have been accepted by **TCSVT**.</span>
 + <span style="color:red; font-weight:bold">**[July, 2025]** One paper have been accepted by **TPAMI**.</span>
 + <span style="color:red; font-weight:bold">**[July, 2025]** One paper have been accepted by **ECAI 2025**.</span>
 + <span style="color:red; font-weight:bold">**[May, 2025]** One paper have been accepted by **ICML 2025**.</span>
@@ -68,10 +69,10 @@ Recent Publication
 **Major Grants**
 + 国家自然科学基金青年基金， 基于数据增强的迁移学习方法和理论研究,  主持, 2025.1-2027.12,30万
 + 天津市自然科学基金青年基金, 面向数据驱动的可见与不可见迁移学习方法研究, 主持, 2025.01-2026.10，6万
-+ ZZY, 大模型xxx，课题五主持，2024.10-2026.12，400万
++ ZZY, 大模型xxx，课题五主持, 2024.10-2026.12, 400万
 + xxx科学院, 跨领域多维度xxx, 主持, 2024.10-2028.12, 100万
 + xxx科学院，认知xxx, 主持, 2025.05-2025.10, 40万
-+ 北京市博士后日常工作经费资助，主持，2025.05-2026.10,10万
++ 北京市博士后日常工作经费资助，主持，2025.05-2026.10, 7万
 
 **Work Experience**
 + 河北工业大学, 人工智能与数据科学学院, 副教授/博士生导师,  2023.12-至今
