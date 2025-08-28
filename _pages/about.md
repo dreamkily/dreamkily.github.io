@@ -49,7 +49,7 @@ Recent Publication
 + **M Wang**, J Chen, Y Wang, Z Chen, (2023) Joint Adversarial Domain Adaptation With Structural Graph Alignment, IEEE Transactions on Network Science and Engineering  
 + **M Wang**, S Wang, W Wang, T Liang, J Chen, Z Luo. (2023) Reducing Bi-level Feature Redundancy for Unsupervised Domain Adaptation. Pattern Recognition (中科院一区)
 + W Wang, **M Wang**, Z Wang, H Li, Z Wang. (2023) Importance filtered soft label-based deep adaptation network. Knowledge-Based Systems (中科院一区, 通讯作者)
-+ W. Wang, **M Wang**, X Dong, L Lan, Q Zu, X Zhang, C Wang. (2023). Class-specific and Self-learning Local Manifold Structure for Domain Adaptation. Pattern Recognition (中科院一区)
++ W. Wang, **M Wang**, X Dong, L Lan, Q Zu, X Zhang, C Wang. (2023). Class-specific and Self-learning Local Manifold Structure for Domain Adaptation. Pattern Recognition (中科院一区, 通讯作者)
 + **M Wang**, P Li, L Shen, Y Wang, S Wang, W Wang, X Zhang, J Chen, Z Luo. (2022). Informative Pairs Mining based Adaptive Metric Learning for Adversarial Domain Adaptation, Neural Networks (中科院一区).
 
 
