@@ -58,7 +58,6 @@ Recent Publication
 
 
 **提供的科研环境**
-
 + 优良的计算机硬件环境，8卡Nvidia A100, 8卡Nvidia H100深度学习工作站;
 + 充足的研究经费，支持出去参会，提供有竞争力的生活补贴;
 + 项目需求来自于多方平台，具有广泛的应用前景，高薪工作offer;
@@ -67,7 +66,6 @@ Recent Publication
 
 
 **Academic Service**
-
 + Reviewer for WACV 2026, ECAI 2025, LOG 2026
 + Reviewer for ICLR 2024, ICML 2024, NeurIPS 2023-2025, AAAI 2023-2025, IJCAI 2025
 + Reviewer for CVPR 2025, ICCV 2025,  ACM MM 2023-2024, ECCV 2024, MICCAI 2025, ICASSP 2024
