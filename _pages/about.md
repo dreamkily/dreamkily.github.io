@@ -56,6 +56,16 @@ Recent Publication
 
 ---
 
+
+**提供的科研环境**
+
++ 优良的计算机硬件环境，8卡Nvidia A100, 8卡Nvidia H100深度学习工作站;
++ 充足的研究经费，支持出去参会，提供有竞争力的生活补贴;
++ 项目需求来自于多方平台，具有广泛的应用前景，高薪工作offer;
++ 支持去国内985高校和海外高校读博深造
+
+
+
 **Academic Service**
 
 + Reviewer for WACV 2026, ECAI 2025
