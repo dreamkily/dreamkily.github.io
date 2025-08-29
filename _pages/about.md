@@ -66,9 +66,9 @@ Recent Publication
 
 
 **Academic Service**
-+ Reviewer for WACV 2026, ECAI 2025, LOG 2026
++ Reviewer for WACV 2026, ECAI 2026, LOG 2026, AAAI 2026, AISTATS 2026
 + Reviewer for ICLR 2024, ICML 2024, NeurIPS 2023-2025, AAAI 2023-2025, IJCAI 2025
-+ Reviewer for CVPR 2025, ICCV 2025,  ACM MM 2023-2024, ECCV 2024, MICCAI 2025, ICASSP 2024
++ Reviewer for CVPR 2025, ICCV 2025,  ACM MM 2023-2025, ECCV 2024, MICCAI 2025, ICASSP 2024
 + Reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 + Reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence
 + Reviewer for IEEE Transactions on Image Processing
