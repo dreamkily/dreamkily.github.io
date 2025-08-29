@@ -28,29 +28,29 @@ Hi, I am Mengzhu Wang (汪梦竹). I received my M.Sc. degree from Chongqing Uni
 
 Recent Publication
 ======
-+ **M Wang**, H Su, J Li, C Li, N Yin, L Shen, J Guo. (2025) GraphCL: Graph-based Clustering for Semi-Supervised Medical Image Segmentation, Forty-second International Conference on Machine Learning (ICML) (CCF-A会议)
-+ **M Wang**, W Ren, Y Zhang, Y Fan, D Shi, L Jing, N Yin. (2025) Gaussian Mixture Model for Graph Domain Adaptation. The 34th International Joint Conference on Artificial Intelligence (IJCAI) (CCF-A会议)
-+ **M Wang**, H Su, et al. (2025) Graph Convolutional Mixture-of-Experts Learner Network for Long-Tailed Domain Generalization, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) (中科院一区)
-+ **M Wang**. (2025) SimProF: A Simple Probabilistic Framework for Unsupervised Domain Adaptation(AAAI) (CCF-A会议)
-+ J Li, H Su, B Wang, Y Min, **M Wang**, N Yin, J Guo, S Wang. (2025) ESBN: Estimation Shift of Batch Normalization for Source-free Universal Domain Adaptation. The 34th International Joint Conference on Artificial Intelligence (IJCAI) (CCF-A会议, 通讯作者)
-+ H Tan, M Cao, K Hu, X He, Z Wang, H Li, L Lan, **M Wang**. (2025) Wave-wise Discriminative Tracking by Phase-Amplitude Separation, Augmentation and Mixture. The 34th International Joint Conference on Artificial Intelligence (IJCAI) (CCF-A会议, 通讯作者)
-+ N Yin, X Teng, Z Cao, **M Wang**. (2025) Coupling Category Alignment for Graph Domain Adaptation.The 34th International Joint Conference on Artificial Intelligence (IJCAI) (CCF-A会议, 通讯作者)
-+ **M Wang**, J Chen, H Wang, H Wu, Z Liu, Q Zhang. (2023). Interpolation Normalization for Contrast Domain Generalization. 2023 ACM 31th International Conference on Multimedia (ACMMM) (CCF-A会议)
-+ **M Wang**, J Yuan, Z Wang. (2023). Mixture-of-Experts Learner for Single Long-Tailed Domain Generalization. 2023 ACM 31th International Conference on Multimedia (ACMMM) (CCF-A会议 oral)
-+ **M Wang**, J Yuan, Q Qian, Z Wang, H Li. (2022). Semantic Data Augmentation based Distance Metric Learning for Domain Generalization. 2022 ACM 30th International Conference on Multimedia (ACMMM) (CCF-A会议 oral).
-+ **M Wang**, W Wang, B Li, X Zhang, L Lan, H Tan, T Liang, W Yu, Z Luo. (2021).  Interbn: Channel fusion for adversarial unsupervised domain adaptation, 2021 ACM 30th International Conference on Multimedia (ACMMM) (CCF-A会议 oral). 
-+ **M Wang**, X Zhang, L Lan, Z Luo. Equity in Unsupervised Domain Adaptation by Nuclear Norm Maximization, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) (中科院一区)
-+ **M Wang**, X Zhang, L Lan, Z Luo.  Smooth-Guided Implicit Data Augmentation for Domain Generalization, IEEE Transactions on Neural Networks and Learning Systems (TNNLS) (中科院一区)
-+ **M Wang**, X Zhang, L Lan, Z Luo. 	Inter-Class and Inter-Domain Semantic Augmentation for Domain Generalization, IEEE Transactions on Image Processing (TIP) (CCF-A, 中科院一区)
-+ **M Wang**, J Chen, Y Wang, Z Gong, K Wu,  C.M.Leung. (2023) TFC: Transformer Fused Convolution for Adversarial Domain Adaptation, IEEE Transactions on Computational Social Systems (中科院二区)
++ **Mengzhu Wang**, H Su, J Li, C Li, N Yin, L Shen, J Guo. (2025) GraphCL: Graph-based Clustering for Semi-Supervised Medical Image Segmentation, Forty-second International Conference on Machine Learning (ICML) (CCF-A会议)
++ **Mengzhu Wang**, W Ren, Y Zhang, Y Fan, D Shi, L Jing, N Yin. (2025) Gaussian Mixture Model for Graph Domain Adaptation. The 34th International Joint Conference on Artificial Intelligence (IJCAI) (CCF-A会议)
++ **Mengzhu Wang**, H Su, et al. (2025) Graph Convolutional Mixture-of-Experts Learner Network for Long-Tailed Domain Generalization, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) (中科院一区)
++ **Mengzhu Wang**. (2025) SimProF: A Simple Probabilistic Framework for Unsupervised Domain Adaptation(AAAI) (CCF-A会议)
++ J Li, H Su, B Wang, Y Min, **Mengzhu Wang**, N Yin, J Guo, S Wang. (2025) ESBN: Estimation Shift of Batch Normalization for Source-free Universal Domain Adaptation. The 34th International Joint Conference on Artificial Intelligence (IJCAI) (CCF-A会议, 通讯作者)
++ H Tan, M Cao, K Hu, X He, Z Wang, H Li, L Lan, **Mengzhu Wang**. (2025) Wave-wise Discriminative Tracking by Phase-Amplitude Separation, Augmentation and Mixture. The 34th International Joint Conference on Artificial Intelligence (IJCAI) (CCF-A会议, 通讯作者)
++ N Yin, X Teng, Z Cao, **Mengzhu Wang**. (2025) Coupling Category Alignment for Graph Domain Adaptation.The 34th International Joint Conference on Artificial Intelligence (IJCAI) (CCF-A会议, 通讯作者)
++ **Mengzhu Wang**, J Chen, H Wang, H Wu, Z Liu, Q Zhang. (2023). Interpolation Normalization for Contrast Domain Generalization. 2023 ACM 31th International Conference on Multimedia (ACMMM) (CCF-A会议)
++ **Mengzhu Wang**, J Yuan, Z Wang. (2023). Mixture-of-Experts Learner for Single Long-Tailed Domain Generalization. 2023 ACM 31th International Conference on Multimedia (ACMMM) (CCF-A会议 oral)
++ **Mengzhu Wang**, J Yuan, Q Qian, Z Wang, H Li. (2022). Semantic Data Augmentation based Distance Metric Learning for Domain Generalization. 2022 ACM 30th International Conference on Multimedia (ACMMM) (CCF-A会议 oral).
++ **Mengzhu Wang**, W Wang, B Li, X Zhang, L Lan, H Tan, T Liang, W Yu, Z Luo. (2021).  Interbn: Channel fusion for adversarial unsupervised domain adaptation, 2021 ACM 30th International Conference on Multimedia (ACMMM) (CCF-A会议 oral). 
++ **Mengzhu Wang**, X Zhang, L Lan, Z Luo. Equity in Unsupervised Domain Adaptation by Nuclear Norm Maximization, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) (中科院一区)
++ **Mengzhu Wang**, X Zhang, L Lan, Z Luo.  Smooth-Guided Implicit Data Augmentation for Domain Generalization, IEEE Transactions on Neural Networks and Learning Systems (TNNLS) (中科院一区)
++ **Mengzhu Wang**, X Zhang, L Lan, Z Luo. 	Inter-Class and Inter-Domain Semantic Augmentation for Domain Generalization, IEEE Transactions on Image Processing (TIP) (CCF-A, 中科院一区)
++ **Mengzhu Wang**, J Chen, Y Wang, Z Gong, K Wu,  C.M.Leung. (2023) TFC: Transformer Fused Convolution for Adversarial Domain Adaptation, IEEE Transactions on Computational Social Systems (中科院二区)
 + N Yin*, **M Wang**, B Gu, X Luo, DREAM: Dual Structured Exploration with Mixup for Open-set Graph Domain Adaption, 2024,  International Conference on Learning Representations (ICLR) (共同一作)
-+ H Su, W Luo, D Liu, **M Wang**, J Tang, J Chen, C Wang, Z Chen. (2024). Sharpness-Aware Model-Agnostic Long-Tailed Domain Generalization, Association for the Advancement of Artificial Intelligence (AAAI) (CCF-A会议, 通讯作者).
-+ T Liang, B Li, **M Wang**, H Tan, Z Luo. A Closer Look at the Joint Training of Object Detection and Re-identification in Multi-Object Tracking, IEEE Transactions on Image Processing (CCF-A期刊, 通讯作者)
-+ **M Wang**, J Chen, Y Wang, Z Chen, (2023) Joint Adversarial Domain Adaptation With Structural Graph Alignment, IEEE Transactions on Network Science and Engineering  
-+ **M Wang**, S Wang, W Wang, T Liang, J Chen, Z Luo. (2023) Reducing Bi-level Feature Redundancy for Unsupervised Domain Adaptation. Pattern Recognition (中科院一区)
-+ W Wang, **M Wang**, Z Wang, H Li, Z Wang. (2023) Importance filtered soft label-based deep adaptation network. Knowledge-Based Systems (中科院一区, 通讯作者)
-+ W. Wang, **M Wang**, X Dong, L Lan, Q Zu, X Zhang, C Wang. (2023). Class-specific and Self-learning Local Manifold Structure for Domain Adaptation. Pattern Recognition (中科院一区, 通讯作者)
-+ **M Wang**, P Li, L Shen, Y Wang, S Wang, W Wang, X Zhang, J Chen, Z Luo. (2022). Informative Pairs Mining based Adaptive Metric Learning for Adversarial Domain Adaptation, Neural Networks (中科院一区).
++ H Su, W Luo, D Liu, **Mengzhu Wang**, J Tang, J Chen, C Wang, Z Chen. (2024). Sharpness-Aware Model-Agnostic Long-Tailed Domain Generalization, Association for the Advancement of Artificial Intelligence (AAAI) (CCF-A会议, 通讯作者).
++ T Liang, B Li, **Mengzhu Wang**, H Tan, Z Luo. A Closer Look at the Joint Training of Object Detection and Re-identification in Multi-Object Tracking, IEEE Transactions on Image Processing (CCF-A期刊, 通讯作者)
++ **Mengzhu Wang**, J Chen, Y Wang, Z Chen, (2023) Joint Adversarial Domain Adaptation With Structural Graph Alignment, IEEE Transactions on Network Science and Engineering  
++ **Mengzhu Wang**, S Wang, W Wang, T Liang, J Chen, Z Luo. (2023) Reducing Bi-level Feature Redundancy for Unsupervised Domain Adaptation. Pattern Recognition (中科院一区)
++ W Wang, **Mengzhu Wang**, Z Wang, H Li, Z Wang. (2023) Importance filtered soft label-based deep adaptation network. Knowledge-Based Systems (中科院一区, 通讯作者)
++ W. Wang, **Mengzhu Wang**, X Dong, L Lan, Q Zu, X Zhang, C Wang. (2023). Class-specific and Self-learning Local Manifold Structure for Domain Adaptation. Pattern Recognition (中科院一区, 通讯作者)
++ **Mengzhu Wang**, P Li, L Shen, Y Wang, S Wang, W Wang, X Zhang, J Chen, Z Luo. (2022). Informative Pairs Mining based Adaptive Metric Learning for Adversarial Domain Adaptation, Neural Networks (中科院一区).
 
 
 
