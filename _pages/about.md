@@ -43,7 +43,7 @@ Recent Publication
 + **Mengzhu Wang**, X Zhang, L Lan, Z Luo.  Smooth-Guided Implicit Data Augmentation for Domain Generalization, IEEE Transactions on Neural Networks and Learning Systems (TNNLS) (中科院一区)
 + **Mengzhu Wang**, X Zhang, L Lan, Z Luo. 	Inter-Class and Inter-Domain Semantic Augmentation for Domain Generalization, IEEE Transactions on Image Processing (TIP) (CCF-A, 中科院一区)
 + **Mengzhu Wang**, J Chen, Y Wang, Z Gong, K Wu,  C.M.Leung. (2023) TFC: Transformer Fused Convolution for Adversarial Domain Adaptation, IEEE Transactions on Computational Social Systems (中科院二区)
-+ N Yin*, **M Wang**, B Gu, X Luo, DREAM: Dual Structured Exploration with Mixup for Open-set Graph Domain Adaption, 2024,  International Conference on Learning Representations (ICLR) (共同一作)
++ N Yin*, **Mengzhu Wang**, B Gu, X Luo, DREAM: Dual Structured Exploration with Mixup for Open-set Graph Domain Adaption, 2024,  International Conference on Learning Representations (ICLR) (共同一作)
 + H Su, W Luo, D Liu, **Mengzhu Wang**, J Tang, J Chen, C Wang, Z Chen. (2024). Sharpness-Aware Model-Agnostic Long-Tailed Domain Generalization, Association for the Advancement of Artificial Intelligence (AAAI) (CCF-A会议, 通讯作者).
 + T Liang, B Li, **Mengzhu Wang**, H Tan, Z Luo. A Closer Look at the Joint Training of Object Detection and Re-identification in Multi-Object Tracking, IEEE Transactions on Image Processing (CCF-A期刊, 通讯作者)
 + **Mengzhu Wang**, J Chen, Y Wang, Z Chen, (2023) Joint Adversarial Domain Adaptation With Structural Graph Alignment, IEEE Transactions on Network Science and Engineering  
