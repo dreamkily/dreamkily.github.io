@@ -66,15 +66,17 @@ Recent Publication
 
 
 **Academic Service**
++ Area Chair for ICLR 2026
 + Reviewer for WACV 2026, ECAI 2026, LOG 2026, AAAI 2026, AISTATS 2026
 + Reviewer for ICLR 2024, ICML 2024, NeurIPS 2023-2025, AAAI 2023-2025, IJCAI 2025
 + Reviewer for CVPR 2025, ICCV 2025,  ACM MM 2023-2025, ECCV 2024, MICCAI 2025, ICASSP 2024
++ Guest Editor for IEEE Transactions on Computational Social Systems
 + Reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 + Reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence
 + Reviewer for IEEE Transactions on Image Processing
 + Reviewer for IEEE Transactions on Big Data
 + Reviewer for Neurocomputing
-
++ Reviewer for Neural Networks
 
 **Major Grants**
 + 国家自然科学基金青年基金， 基于数据增强的迁移学习方法和理论研究,  主持, 2025.1-2027.12,30万
