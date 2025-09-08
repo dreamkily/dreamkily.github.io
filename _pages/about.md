@@ -14,15 +14,16 @@ Hi, I am Mengzhu Wang (汪梦竹). I received my M.Sc. degree from Chongqing Uni
 <span style="color:red; font-size:1.5em; font-weight:bold">News!</span>
 
 + 课题组拟于2026年招收硕士研究生7名，研究方向涵盖迁移学习、计算机视觉、大模型、医学图像分割和单细胞多组学，欢迎有意申请的同学通过邮件提交材料，包括个人简历、成绩单和科研计划说明，联系方式(dreamkily@gmail.com)。
-+ <span style="color:red; font-weight:bold">**[July, 2025]** One paper have been accepted by **TCSVT**.</span>
-+ <span style="color:red; font-weight:bold">**[July, 2025]** One paper have been accepted by **TPAMI**.</span>
-+ <span style="color:red; font-weight:bold">**[July, 2025]** One paper have been accepted by **ECAI 2025**.</span>
-+ <span style="color:red; font-weight:bold">**[May, 2025]** One paper have been accepted by **ICML 2025**.</span>
++ <span style="color:red; font-weight:bold">**[Sep, 2025]** I was invited to be the Area Chair of **ICLR**.</span>
++ <span style="color:red; font-weight:bold">**[July, 2025]** One paper has been accepted by **TCSVT**.</span>
++ <span style="color:red; font-weight:bold">**[July, 2025]** One paper has been accepted by **TPAMI**.</span>
++ <span style="color:red; font-weight:bold">**[July, 2025]** One paper has been accepted by **ECAI 2025**.</span>
++ <span style="color:red; font-weight:bold">**[May, 2025]** One paper has been accepted by **ICML 2025**.</span>
 + <span style="color:red; font-weight:bold">**[Apr, 2025]** Six papers have been accepted by **IJCAI 2025**.</span>
-+ <span style="color:red; font-weight:bold">**[Jan, 2025]** One paper have been accepted by **TCSVT**.</span>
-+ <span style="color:red; font-weight:bold">**[Dec, 2024]** One paper have been accepted by **AAAI 2025**.</span>
-+ <span style="color:red; font-weight:bold">**[Mar, 2024]** One paper have been accepted by **TNNLS**.</span>
-+ <span style="color:red; font-weight:bold">**[Jan, 2024]** One paper have been accepted by **TIP**.</span>
++ <span style="color:red; font-weight:bold">**[Jan, 2025]** One paper has been accepted by **TCSVT**.</span>
++ <span style="color:red; font-weight:bold">**[Dec, 2024]** One paper has been accepted by **AAAI 2025**.</span>
++ <span style="color:red; font-weight:bold">**[Mar, 2024]** One paper has been accepted by **TNNLS**.</span>
++ <span style="color:red; font-weight:bold">**[Jan, 2024]** One paper has been accepted by **TIP**.</span>
   
 ---
 
@@ -61,7 +62,7 @@ Recent Publication
 + 优良的计算机硬件环境，8卡Nvidia A100, 8卡Nvidia H100深度学习工作站;
 + 充足的研究经费，支持出去参会，提供有竞争力的生活补贴;
 + 项目需求来自于多方平台，具有广泛的应用前景，高薪工作offer;
-+ 支持去国内985高校和海外高校读博深造
++ 支持去国内top985高校和海外高校读博深造
 
 
 
@@ -73,6 +74,7 @@ Recent Publication
 + Guest Editor for IEEE Transactions on Computational Social Systems
 + Reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 + Reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence
++ Reviewer for IEEE Transactions on Knowledge and Data Engineering
 + Reviewer for IEEE Transactions on Image Processing
 + Reviewer for IEEE Transactions on Big Data
 + Reviewer for Neurocomputing
