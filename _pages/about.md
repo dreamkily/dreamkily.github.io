@@ -77,6 +77,7 @@ Recent Publication
 + Reviewer for IEEE Transactions on Knowledge and Data Engineering
 + Reviewer for IEEE Transactions on Image Processing
 + Reviewer for IEEE Transactions on Big Data
++ Reviewer for Expert Systems With Applications
 + Reviewer for Neurocomputing
 + Reviewer for Neural Networks
 + Reviewer for IEEE Journal of Biomedical and Health Informatics
