@@ -82,6 +82,36 @@ Recent Publication
 + Reviewer for Neural Networks
 + Reviewer for IEEE Journal of Biomedical and Health Informatics
 
+
+**Teaching Student**
++ Current Students in Hebei University of Technology
++ Wenhao Ren (任文浩), Transfer Learning (迁移学习), 2024-2027, Publish paper on IJCAI'25 (CCF Rank A);
++ Yu Zhang (张宇), Single-cell Multi omics (单细胞多组学), 2024-2027;
++ Yanlong Fan(樊彦龙), Motor Imagery(运动想象), 2024-2027, Co-supervision with Prof.Liang Yang;
++ Changyuan Deng(邓长远), Object Detection(目标检测), 2025-2028;
++ Haohan Guo(郭浩翰), Domain Generalization(域泛化), 2025-2028;
++ Miaorong Wang(王淼荣), Medical Image Segmentation(医学图像分割), 2025-2028;
++ Hao Guo(郭浩), Medical Image Segmentation(医学图像分割), 2025-2028,Co-supervision with Bingxin Niu;
++ Xinhua Fang(方鑫华), Transfer Learning(域泛化), 2025-2028;
++ Hao Zhang(张浩), Federated Learning(迁移学习), 2025-2028, Co-supervision with Prof.Liang Yang;
++ Shibo Sun(孙士博), Medical Image Segmentation(医学图像分割), 2025-2028, Co-supervision with Associate Prof.Yongla Jia;
++ Huiyuan Guan(管会远), Multimodal LLM(多模态大模型), 2025-2028;
++ Haojian Du(杜昊健), Multimodal LLM(多模态大模型), 2025-2028; Co-supervision with Associate Prof.Yongla Jia;
+
++ Students in Other School (Co-supervision)
++ Luoxi Jing (景罗希), Transfer Learning (迁移学习), Ph.D in Peking University (北京大学)
++ Mingtao Zhang (张明韬), Transfer Learning (迁移学习), Ph.D in Peking University (北京大学)
++ Chuan Li (李川), Single-cell Multi omics (单细胞多组学), Ph.D in National University of Defense Technology (国防科技大学)
++ Zhaohui Hu (胡照辉), Single-cell Multi omics (单细胞多组学), Ph.D in National University of Defense Technology (国防科技大学)
++ Houcheng Su (苏厚成), Transfer Learning (迁移学习), Ph.D in Hong Kong University of Science and Technology (香港科技大学)
++ Jialu Zhou (周嘉璐),Multimodal LLM (多模态大模型), Ph.D in National University of Defense Technology (国防科技大学)
++ Jiao Li(李焦), Medical Image Segmentation(医学图像分割), Master in University of Electronic Science and Technology of China (电子科技大学)
++ Wenyuan Xiong(熊文渊), Transfer Learning (迁移学习), Master in The Hong Kong Polytechnic University (香港理工大学)
++ Shihao Xiong(熊仕豪), Transfer Learning (迁移学习), Master in Intelligent Game and Decision Lab (智能博弈与决策实验室)
++ Shiyi Zhang(张世宜), Multimodal LLM (多模态大模型), Ph.D in Intelligent Game and Decision Lab (智能博弈与决策实验室)
+
+
+
 **Major Grants**
 + 国家自然科学基金青年基金, 基于数据增强的迁移学习方法和理论研究,  主持, 2025.1-2027.12,30万
 + 天津市自然科学基金青年基金, 面向数据驱动的可见与不可见迁移学习方法研究, 主持, 2025.01-2026.10, 6万
