@@ -81,6 +81,7 @@ Recent Publication
 + Reviewer for Neurocomputing
 + Reviewer for Neural Networks
 + Reviewer for IEEE Journal of Biomedical and Health Informatics
++ Reviewer for Information Processing and Management
 
 
 **Major Grants**
@@ -93,7 +94,7 @@ Recent Publication
 
 **Work Experience**
 + 河北工业大学, 人工智能与数据科学学院, 副教授/博士生导师,  2023.12-至今
-+ 中国人民解放军军事科学院, 脑科学研究所, 访问学者, 2023.11-2025.09
++ xxx科学院, xxx研究所, 访问学者, 2023.11-2025.09
 + 阿里巴巴, 达摩院, 实习算法研究员, 2022.02-2023.10
 + 京东, 探索研究院, 实习算法研究员, 2021.10-2022.02
 + 清华大学, 计算机科学与技术系, 实习生, 2017.08-2017.12
