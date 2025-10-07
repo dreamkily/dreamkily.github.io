@@ -13,3 +13,6 @@ author_profile: true
 + Jiao Li, Houcheng Su, Bingli Wang, Yuandong Min, **Mengzhu Wang\***, Nan Yin, Shanshan Wang, Jingcai Guo, ESBN: Estimation Shift of Batch Normalization for Source-free Universal Domain
 Adaptation, Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence(**IJCAI**), 2025 (CCF-A类会议, 通讯作者)
 + Nan Yin, Xiao Teng, Zhiguang Cao, **Mengzhu Wang\***, Coupling Category Alignment for Graph Domain Adaptation, Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence(**IJCAI**), 2025 (CCF-A类会议, 通讯作者)
++ Yihua Shao, Minxi Yan, Yang Liu, Siyu Chen, Wenjie Chen, Xinwei Long, Ziyang Yan, Lei Li, **Mengzhu Wang**, Jingcai Guo, In-Context Meta LoRA Generation, Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence(**IJCAI**), 2025 (CCF-A类会议)
++ Zhijie Rao, Jingcai Guo, Miaoge Li, Yang Chen, **Mengzhu Wang**, Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence(**IJCAI**), 2025 (CCF-A类会议)
++ Nan Yin, Li Shen, **Mengzhu Wang**, Xinwang Liu, Chong Chen, Xian-sheng Hua, DREAM: A Dual Variational Framework for Unsupervised Graph Domain Adaptation, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025 (CCF-A类期刊)
