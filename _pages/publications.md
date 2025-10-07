@@ -7,7 +7,7 @@ author_profile: true
 **2025**
 ----
 
-<strong>1.</strong> **Mengzhu Wang**, Houcheng Su, Sijia Wang, Shanshan Wang, Nan Yin, Long Lan, Liang Yang, Xiaochun Cao. Graph Convolutional Mixture-of-Experts Learner Network for Long-Tailed Domain Generalization, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2025 (CCF-B类期刊)
+<p style="font-family: Arial, sans-serif;"><strong>1.</strong> **Mengzhu Wang**, Houcheng Su, Sijia Wang, Shanshan Wang, Nan Yin, Long Lan, Liang Yang, Xiaochun Cao. Graph Convolutional Mixture-of-Experts Learner Network for Long-Tailed Domain Generalization, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2025 (CCF-B类期刊)</p>
 
 <strong>2.</strong> **Mengzhu Wang**. SimProF:A Simple Probabilistic Framework for Unsupervised Domain Adaptation, Association for the Advancement of Artificial Intelligence (**AAAI**), 2025 (CCF-A类会议)
 
