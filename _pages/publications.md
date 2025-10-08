@@ -34,12 +34,30 @@ Adaptation, Proceedings of the Thirty-Fourth International Joint Conference on A
 
 <strong>13.</strong> Hao Li, Wei Wang, Cong Wang, **Mengzhu Wang**, Xiang Zhang, Long Lan, Xinwang Liu, Kenli Li, Xiaochun Cao, Phrase Grounding-based Style Transfer for Single-Domain Generalized Object Detection, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2025 (CCF-B类期刊)
 
-**2025**
+**2024**
 ----
 
 <strong>1.</strong> **Mengzhu Wang**, Yuehua Liu, Jianlong Yuan, Shanshan Wang, Zhibin Wang, Wei Wang, Inter-Class and Inter-Domain Semantic Augmentation for Domain Generalization, IEEE Transactions on Image Processing (**TIP**), 2024 (CCF-A类期刊)
 
-<strong>2.</strong> Mengzhu Wang, Shanshan Wang, Xun Yang, Jianlong Yuan, Wenju Zhang, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2025 (CCF-B类期刊)
+<strong>2.</strong> **Mengzhu Wang**, Shanshan Wang, Xun Yang, Jianlong Yuan, Wenju Zhang, Equity in unsupervised domain adaptation by nuclear norm maximization, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2024 (CCF-B类期刊)
+
+<strong>3.</strong> **Mengzhu Wang**, Junze Liu, Ge Luo, Shanshan Wang, Wei Wang, Long Lan, Ye Wang, Smooth-guided implicit data augmentation for domain generalization, IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2024 (CCF-B类期刊)
+
+<strong>4.</strong> Nan Yin, **Mengzhu Wang\***, Zhenghan Chen, Li Shen, Huan Xiong, Bin Gu, Xiao Luo, DREAM: Dual structured exploration with mixup for open-set graph domain adaption, The Twelfth International Conference on Learning Representations (**ICLR**), 2024 (共同一作)
+
+<strong>5.</strong> Houcheng Su, Weihao Luo, Daixian Liu, **Mengzhu Wang**, Jing Tang, Junyang Chen, Cong Wang,  Sharpness-aware model-agnostic long-tailed domain generalization, Association for the Advancement of Artificial Intelligence (**AAAI**), 2024 (CCF-A类会议, 通讯作者)
+
+<strong>6.</strong> Nan Yin, **Mengzhu Wang**, Zhenghan Chen, Giulia De Masi, Huan Xiong, Bin Gu, Dynamic spiking graph neural networks, Association for the Advancement of Artificial Intelligence (**AAAI**), 2024 (CCF-A类会议)
+
+<strong>7.</strong> Cong Wang, Jinshan Pan, Wei Wang, Gang Fu, Siyuan Liang, **Mengzhu Wang**, Xiao-Ming Wu, Jun Liu, Correlation matching transformation transformers for uhd image restoration, Association for the Advancement of Artificial Intelligence (**AAAI**), 2024 (CCF-A类会议)
+
+<strong>8.</strong> Yang Dai, Oubo Ma, Longfei Zhang, Xingxing Liang, Shengchao Hu, **Mengzhu Wang**, Shouling Ji, Jincai Huang, Li Shen, Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning? Advances in Neural Information Processing Systems (**NeurIPS**), 2024 (CCF-A类会议)
+
+<strong>9.</strong> Tianwei Yan, Shan Zhao, Minghao Hu, **Mengzhu Wang**, Xiang Zhang, Zhigang Luo, Meng Wang, Hcl: A hierarchical contrastive learning framework for zero-shot relation extraction, IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2024 (CCF-B类期刊)
+
+<strong>10.</strong>  Hao Li, Wei Wang, **Mengzhu Wang**, Huibin Tan, Long Lan, Zhigang Luo, Xinwang Liu, Kenli Li, STFormer: Spatial-Temporal-Aware Transformer for Video Instance Segmentation, IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2024 (CCF-B类期刊)
+
+<strong>11.</strong> Jiaming Zhuo, Feiyang Qin, Can Cui, Kun Fu, Bingxin Niu, **Mengzhu Wang**, Yuanfang Guo, Chuan Wang, Zhen Wang, Xiaochun Cao, Liang Yang, Improving Graph Contrastive Learning via Adaptive Positive Sampling, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024 (CCF-A类会议)
 
 
 
