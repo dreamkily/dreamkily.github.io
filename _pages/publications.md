@@ -34,3 +34,12 @@ Adaptation, Proceedings of the Thirty-Fourth International Joint Conference on A
 
 <strong>13.</strong> Hao Li, Wei Wang, Cong Wang, **Mengzhu Wang**, Xiang Zhang, Long Lan, Xinwang Liu, Kenli Li, Xiaochun Cao, Phrase Grounding-based Style Transfer for Single-Domain Generalized Object Detection, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2025 (CCF-B类期刊)
 
+**2025**
+----
+
+<strong>1.</strong> **Mengzhu Wang**, Yuehua Liu, Jianlong Yuan, Shanshan Wang, Zhibin Wang, Wei Wang, Inter-Class and Inter-Domain Semantic Augmentation for Domain Generalization, IEEE Transactions on Image Processing (**TIP**), 2024 (CCF-A类期刊)
+
+<strong>2.</strong> Mengzhu Wang, Shanshan Wang, Xun Yang, Jianlong Yuan, Wenju Zhang, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2025 (CCF-B类期刊)
+
+
+
