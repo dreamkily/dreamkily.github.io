@@ -14,6 +14,7 @@ Hi, I am Mengzhu Wang (汪梦竹). I received my M.Sc. degree from Chongqing Uni
 <span style="color:red; font-size:1.5em; font-weight:bold">News!</span>
 
 + 课题组拟于2026年招收硕士研究生7名，研究方向涵盖迁移学习、计算机视觉、大模型、医学图像分割和单细胞多组学，欢迎有意申请的同学通过邮件提交材料，包括个人简历、成绩单和科研计划说明，联系方式(dreamkily@gmail.com)。
++ + <span style="color:red; font-weight:bold">**[Oct, 2025]** One paper has been accepted by **TBD**.</span>
 + <span style="color:red; font-weight:bold">**[Sep, 2025]** I was invited to be the Area Chair of **ICLR**.</span>
 + <span style="color:red; font-weight:bold">**[July, 2025]** One paper has been accepted by **TCSVT**.</span>
 + <span style="color:red; font-weight:bold">**[July, 2025]** One paper has been accepted by **TPAMI**.</span>
@@ -33,6 +34,7 @@ Recent Publication
 + **Mengzhu Wang**, W Ren, Y Zhang, Y Fan, D Shi, L Jing, N Yin. (2025) Gaussian Mixture Model for Graph Domain Adaptation. The 34th International Joint Conference on Artificial Intelligence (IJCAI) (CCF-A会议)
 + **Mengzhu Wang**, H Su, et al. (2025) Graph Convolutional Mixture-of-Experts Learner Network for Long-Tailed Domain Generalization, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) (中科院一区)
 + **Mengzhu Wang**. (2025) SimProF: A Simple Probabilistic Framework for Unsupervised Domain Adaptation(AAAI) (CCF-A会议)
++ **Mengzhu Wang**, Houcheng Su, Shanshan Wang, Nan Yin, Long Lan, Liang Yang, Li Shen. (2025) Probability-Guided Contrastive Learning for Long-Tailed Domain Generalization (TBD) 
 + J Li, H Su, B Wang, Y Min, **Mengzhu Wang**, N Yin, J Guo, S Wang. (2025) ESBN: Estimation Shift of Batch Normalization for Source-free Universal Domain Adaptation. The 34th International Joint Conference on Artificial Intelligence (IJCAI) (CCF-A会议, 通讯作者)
 + H Tan, M Cao, K Hu, X He, Z Wang, H Li, L Lan, **Mengzhu Wang**. (2025) Wave-wise Discriminative Tracking by Phase-Amplitude Separation, Augmentation and Mixture. The 34th International Joint Conference on Artificial Intelligence (IJCAI) (CCF-A会议, 通讯作者)
 + N Yin, X Teng, Z Cao, **Mengzhu Wang**. (2025) Coupling Category Alignment for Graph Domain Adaptation.The 34th International Joint Conference on Artificial Intelligence (IJCAI) (CCF-A会议, 通讯作者)
