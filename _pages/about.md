@@ -70,7 +70,7 @@ Recent Publication
 
 **Academic Service**
 + Area Chair for ICLR 2026
-+ Reviewer for WACV 2026, ECAI 2026, LOG 2026, AAAI 2026, AISTATS 2026
++ Reviewer for WACV 2026, ECAI 2026, LOG 2026, AAAI 2026, AISTATS 2026, CVPR 2026
 + Reviewer for ICLR 2024, ICML 2024, NeurIPS 2023-2025, AAAI 2023-2025, IJCAI 2025
 + Reviewer for CVPR 2025, ICCV 2025,  ACM MM 2023-2025, ECCV 2024, MICCAI 2025, ICASSP 2024
 + Guest Editor for IEEE Transactions on Computational Social Systems
