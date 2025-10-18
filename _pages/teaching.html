@@ -12,17 +12,18 @@ author_profile: true
     <title>研究生小伙伴</title>
     <style>
         body {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
+            display: grid;
+            grid-template-columns: repeat(3, 1fr); /* Three columns */
+            gap: 20px; /* Space between the elements */
+            justify-items: center; /* Center items horizontally */
+            padding: 20px;
         }
         .student {
             text-align: center;
-            margin: 20px;
-            width: 150px; /* Set the width for each student */
+            width: 120px; /* Set width for each student */
         }
         .student img {
-            width: 120px; /* Smaller images */
+            width: 120px; /* Make images smaller */
             height: 120px; /* Maintain circular shape */
             border-radius: 50%;
         }
@@ -108,8 +109,8 @@ author_profile: true
     </div>
 
     <div class="student">
-        <img src="../images/孙士博.png" alt="孙仕博">
-        <div class="name">孙士博</div>
+        <img src="../images/孙仕博.png" alt="孙仕博">
+        <div class="name">孙仕博</div>
         <div class="description">硕士生</div>
         <div class="email">sunshibo@xmu.edu.cn</div>
     </div>
@@ -122,7 +123,7 @@ author_profile: true
     </div>
 
     <div class="student">
-        <img src="../images/杜昊键.png" alt="杜昊键">
+        <img src="../images/杜昊健.png" alt="杜昊键">
         <div class="name">杜昊键</div>
         <div class="description">硕士生</div>
         <div class="email">duhaojian@xmu.edu.cn</div>
@@ -130,6 +131,7 @@ author_profile: true
 
 </body>
 </html>
+
 
 
 
