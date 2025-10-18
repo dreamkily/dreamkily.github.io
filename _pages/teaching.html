@@ -34,13 +34,23 @@ author_profile: true
             font-size: 0.9em;
             color: gray;
         }
+        /* Make sure there are 3 students per row */
+        @media (min-width: 600px) {
+            .student {
+                width: 30%; /* 3 per row on medium to large screens */
+            }
+        }
+        @media (max-width: 599px) {
+            .student {
+                width: 45%; /* On small screens, use 2 per row */
+            }
+        }
     </style>
 </head>
 <body>
     <h1>研究生小伙伴</h1>
 
     <!-- New Students Starting from 任文浩 -->
-
     <div class="student">
         <img src="../images/任文浩.png" alt="任文浩">
         <div class="name">任文浩</div>
