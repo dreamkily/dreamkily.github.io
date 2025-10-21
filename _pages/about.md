@@ -34,7 +34,7 @@ Recent Publication
 + **Mengzhu Wang**, W Ren, Y Zhang, Y Fan, D Shi, L Jing, N Yin. (2025) Gaussian Mixture Model for Graph Domain Adaptation. The 34th International Joint Conference on Artificial Intelligence (IJCAI) (CCF-A会议)
 + **Mengzhu Wang**, H Su, et al. (2025) Graph Convolutional Mixture-of-Experts Learner Network for Long-Tailed Domain Generalization, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) (中科院一区)
 + **Mengzhu Wang**. (2025) SimProF: A Simple Probabilistic Framework for Unsupervised Domain Adaptation(AAAI) (CCF-A会议)
-+ **Mengzhu Wang**, Houcheng Su, Shanshan Wang, Nan Yin, Long Lan, Liang Yang, Li Shen. (2025) Probability-Guided Contrastive Learning for Long-Tailed Domain Generalization (TBD) 
++ **Mengzhu Wang**, Houcheng Su, Shanshan Wang, Nan Yin, Long Lan, Liang Yang, Li Shen. (2025) Probability-Guided Contrastive Learning for Long-Tailed Domain Generalization, Transactions on Big Data (TBD) 
 + J Li, H Su, B Wang, Y Min, **Mengzhu Wang**, N Yin, J Guo, S Wang. (2025) ESBN: Estimation Shift of Batch Normalization for Source-free Universal Domain Adaptation. The 34th International Joint Conference on Artificial Intelligence (IJCAI) (CCF-A会议, 通讯作者)
 + H Tan, M Cao, K Hu, X He, Z Wang, H Li, L Lan, **Mengzhu Wang**. (2025) Wave-wise Discriminative Tracking by Phase-Amplitude Separation, Augmentation and Mixture. The 34th International Joint Conference on Artificial Intelligence (IJCAI) (CCF-A会议, 通讯作者)
 + N Yin, X Teng, Z Cao, **Mengzhu Wang**. (2025) Coupling Category Alignment for Graph Domain Adaptation.The 34th International Joint Conference on Artificial Intelligence (IJCAI) (CCF-A会议, 通讯作者)
@@ -84,6 +84,7 @@ Recent Publication
 + Reviewer for Neural Networks
 + Reviewer for IEEE Journal of Biomedical and Health Informatics
 + Reviewer for Information Processing and Management
++ Reviewer for Pattern Recognition
 
 
 **Major Grants**
