@@ -76,16 +76,17 @@ Recent Publication
 + Reviewer for CVPR 2025, ICCV 2025,  ACM MM 2023-2025, ECCV 2024, MICCAI 2025, ICASSP 2024
 + Guest Editor for IEEE Transactions on Computational Social Systems
 + Reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-+ Reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence
-+ Reviewer for IEEE Transactions on Knowledge and Data Engineering
-+ Reviewer for IEEE Transactions on Image Processing
-+ Reviewer for IEEE Transactions on Big Data
-+ Reviewer for Expert Systems With Applications
++ Reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence (TPMAI)
++ Reviewer for IEEE Transactions on Knowledge and Data Engineering (TKDE)
++ Reviewer for IEEE Transactions on Image Processing (TIP)
++ Reviewer for IEEE Transactions on Big Data (TBD)
++ Reviewer for Expert Systems With Applications (ESWA)
 + Reviewer for Neurocomputing
-+ Reviewer for Neural Networks
-+ Reviewer for IEEE Journal of Biomedical and Health Informatics
-+ Reviewer for Information Processing and Management
-+ Reviewer for Pattern Recognition
++ Reviewer for Neural Networks (NN)
++ Reviewer for IEEE Journal of Biomedical and Health Informatics (JBHI)
++ Reviewer for Information Processing and Management (IPM)
++ Reviewer for Pattern Recognition (PR)
++ Reviewer for Transactions on Machine Learning Research (TMLR)
 
 
 **Major Grants**
