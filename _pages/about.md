@@ -14,7 +14,7 @@ Hi, I am Mengzhu Wang (汪梦竹). I received my M.Sc. degree from Chongqing Uni
 <span style="color:red; font-size:1.5em; font-weight:bold">News!</span>
 
 + 课题组拟于2026年招收硕士研究生7名，研究方向涵盖迁移学习、计算机视觉、大模型、医学图像分割和单细胞多组学，欢迎有意申请的同学通过邮件提交材料，包括个人简历、成绩单和科研计划说明，联系方式(dreamkily@gmail.com)。
-+ <span style="color:red; font-weight:bold">**[Oct, 2025]** Four papers have been accepted by **AAAI 206**.</span>
++ <span style="color:red; font-weight:bold">**[Oct, 2025]** Four papers have been accepted by **AAAI 2026**.</span>
 + <span style="color:red; font-weight:bold">**[Oct, 2025]** One paper has been accepted by **Neural Networks**.</span>
 + <span style="color:red; font-weight:bold">**[Oct, 2025]** One paper has been accepted by **TBD**.</span>
 + <span style="color:red; font-weight:bold">**[Sep, 2025]** I was invited to be the Area Chair of **ICLR**.</span>
