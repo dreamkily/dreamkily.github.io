@@ -6,10 +6,10 @@ author_profile: true
 ---
 **2026**
 ----
-<span style="font-size: medium;"><strong>1.</strong> **Mengzhu Wang**, Yu Zhang, Hongxing Zhang. Robust Integrative Analysis of Multi-omics Datasets via Nuclear-norm Maximization , Association for the Advancement of Artificial Intelligence (**AAAI**), 2026</span><br>
-<span style="font-size: medium;"><strong>2.</strong> Daixian Liu, Hau-Sing So, Haoran Chen, Jiao Li, Shanshan Wang, **Mengzhu Wang**, Jingcai Guo. Learning to Cluster Rare Cell Types: Implicit Semantic Data Augmentation for Spatial Multi-modal Omics Analysis, Association for the Advancement of Artificial Intelligence (**AAAI**), 2026</span><br>
-<span style="font-size: medium;"><strong>3.</strong> Yingxu Wang, **Mengzhu Wang**, Zhichao Huang, Suyu Liu, Nan Yin. Nested Graph Pseudo-Label Refinement for Noisy Label Domain Adaptation Learning, Association for the Advancement of Artificial Intelligence (**AAAI**), 2026</span><br>
-<span style="font-size: medium;"><strong>4.</strong> Ke Xu, Xiaozheng Shen, Shanshan Wang, **Mengzhu Wang**, Xun Yang. DeFT-LoRA: Decoupled and Fused Tuning with LoRA Experts for Universal Cross-Domain Retrieval, Association for the Advancement of Artificial Intelligence (**AAAI**), 2026</span><br>
+<span style="font-size: medium;"><strong>1.</strong> **Mengzhu Wang**, Yu Zhang, Hongxing Zhang. Robust Integrative Analysis of Multi-omics Datasets via Nuclear-norm Maximization , Association for the Advancement of Artificial Intelligence (**AAAI**), 2026 (CCF-A类会议)</span><br>
+<span style="font-size: medium;"><strong>2.</strong> Daixian Liu, Hau-Sing So, Haoran Chen, Jiao Li, Shanshan Wang, **Mengzhu Wang**, Jingcai Guo. Learning to Cluster Rare Cell Types: Implicit Semantic Data Augmentation for Spatial Multi-modal Omics Analysis, Association for the Advancement of Artificial Intelligence (**AAAI**), 2026 (CCF-A类会议,通讯作者)</span><br>
+<span style="font-size: medium;"><strong>3.</strong> Yingxu Wang, **Mengzhu Wang**, Zhichao Huang, Suyu Liu, Nan Yin. Nested Graph Pseudo-Label Refinement for Noisy Label Domain Adaptation Learning, Association for the Advancement of Artificial Intelligence (**AAAI**), 2026 (CCF-A类会议)</span><br>
+<span style="font-size: medium;"><strong>4.</strong> Ke Xu, Xiaozheng Shen, Shanshan Wang, **Mengzhu Wang**, Xun Yang. DeFT-LoRA: Decoupled and Fused Tuning with LoRA Experts for Universal Cross-Domain Retrieval, Association for the Advancement of Artificial Intelligence (**AAAI**), 2026 (CCF-A类会议)</span><br>
 
 **2025**
 ----
