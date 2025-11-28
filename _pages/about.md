@@ -90,6 +90,7 @@ Recent Publication
 + Reviewer for Information Processing and Management (IPM)
 + Reviewer for Pattern Recognition (PR)
 + Reviewer for Transactions on Machine Learning Research (TMLR)
++ Reviewer for 	IEEE Transactions on Multimedia (TMM)
 
 
 **Major Grants**
@@ -99,10 +100,11 @@ Recent Publication
 + xxx科学院, 跨领域多维度xxx, 主持, 2024.10-2028.12, 100万
 + xxx科学院, 认知xxx, 主持, 2025.05-2025.10, 40万
 + 北京市博士后日常工作经费资助, 主持, 2025.05-2026.10, 7万
++ 中国博士后第78批面上资助, 主持, 2025.11-2027.01, 8万
 
 **Work Experience**
 + 河北工业大学, 人工智能与数据科学学院, 副教授/博士生导师,  2023.12-至今
-+ xxx科学院, xxx研究所, 访问学者, 2023.11-2025.09
++ xxx科学院, xxx研究所, 访问学者, 2023.11-至今
 + 阿里巴巴, 达摩院, 实习算法研究员, 2022.02-2023.10
 + 京东, 探索研究院, 实习算法研究员, 2021.10-2022.02
 + 清华大学, 计算机科学与技术系, 实习生, 2017.08-2017.12
